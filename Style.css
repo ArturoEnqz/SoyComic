@@ -11,6 +11,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: #121216;
+    overflow-x: hidden;
 }
 
 .header{
@@ -70,8 +71,6 @@ body{
 }
 
 footer{
-    position: absolute;
-    bottom: 0;
     height: 50px;
     width: 100%;
     background-color: #18181d;
@@ -104,7 +103,7 @@ footer ul{
 article li{
     list-style: none;
     color: white;
-    font-size: 30px;
+    font-size: 35px;
     text-align: center;
     padding-top: 10px;
     margin-bottom: 10px;
@@ -123,5 +122,5 @@ article .miniatura img{
 }
 
 article #titulo{
-    font-size: 15px;
+    font-size: 25px;
 }
