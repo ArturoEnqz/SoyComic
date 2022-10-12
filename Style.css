@@ -124,3 +124,10 @@ article .miniatura img{
 article #titulo{
     font-size: 25px;
 }
+
+#titulo p
+{
+    font-size: 20px;
+    margin: 0 400px 20px 400px;
+    text-align: justify;
+}
